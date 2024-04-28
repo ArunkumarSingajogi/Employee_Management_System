@@ -1,1 +1,5 @@
-This Project is About Employee Managament
+Title: Employee Management System with Spring Boot and Bootstrap
+
+Description: The Employee Management System employs Spring Boot for rapid development and seamless integration, along with Bootstrap for sleek and responsive user interfaces. This system ensures efficient storage, retrieval, and manipulation of employee data, enhancing organizational productivity. With Spring Boot's simplified configuration and dependency management, along with Bootstrap's CSS framework for design consistency, administrators can effortlessly manage employee information and optimize workflow. MySQL serves as the robust backend database, providing reliability and scalability.
+
+Technologies Used: The project utilizes Spring Boot for streamlined development, HTML and CSS for front-end structure and styling, JavaScript for dynamic functionality, and Bootstrap for responsive design elements. MySQL is employed as the backend database for efficient data storage and retrieval. Development is carried out using popular tools such as Eclipse IDE for coding and MySQL Workbench for database management.
